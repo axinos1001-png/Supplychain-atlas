@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# The SQLite database is rebuilt automatically on first run
+data/*.db
+
+# Downloaded / personal data (your own Comtrade files)
+data/user_*.csv
+data/comtrade_download.csv
