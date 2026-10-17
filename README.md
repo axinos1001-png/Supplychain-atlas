@@ -154,31 +154,6 @@ It takes the largest partner (found from the data), multiplies its value by 0.75
 
 ---
 
-## Suggested viva explanation (about 1 minute)
-
-> "SupplyChain Atlas is a trade-network explorer for India's reported trade in four engineering materials. It stores data in SQLite, cleans and validates CSV input with pandas, and shows it in a Streamlit dashboard with Plotly charts. I separated the code by responsibility: `data_loader` validates, `database` stores and queries through a `TradeDatabase` class, `analysis` does the maths, `charts` draws, and `app` only arranges the screen. The bundled data is invented demo data, clearly labelled, so the app works offline; real UN Comtrade data can be imported with the same CSV schema. For each selection it ranks partners and computes each partner's share, then measures concentration using the top-three share and the Herfindahl-Hirschman Index. The what-if tab is illustrative arithmetic, not a forecast, and the app cannot trace individual products through supply chains because trade statistics don't contain that information."
-
-## Questions to be ready for
-
-1. Why is this a "trade-network explorer" and not a supply-chain tracker? What can't the data tell you?
-2. Why SQLite instead of just reading the CSV each time? (Queries with filters, persistence, indexes, separate demo/user datasets.)
-3. What does `TradeDatabase` do, and why is a class a sensible choice here? What is `self.db_path` for?
-4. What is a parameterised SQL query (the `?` placeholders), and what attack does it prevent? (SQL injection)
-5. Walk through `validate_and_clean`: what happens to a row with a negative value? A "World" row? Why remove "World"?
-6. Why is `commodity_code` read as text? (Leading zeros.)
-7. Define top-three share. Compute HHI by hand for shares 50/30/20. What are its minimum and maximum?
-8. Why does HHI square the shares? How do top-three share and HHI differ in what they show?
-9. Can high concentration be harmless, or low concentration risky? (It only describes value shares, not supply risk.)
-10. How is the "top partner" found? Why is it never hard-coded?
-11. Explain the what-if calculation step by step. Why isn't it a prediction?
-12. Why does the demo data exist, and how do you know it is not real? How would you switch to real data?
-13. What are the limits of the Comtrade data (reporter vs partner, revisions, re-exports) and of the optional download helper?
-14. Why did you draw the map from a bundled outline file? (Plotly's own map layer downloads files from the internet; this app must work offline.)
-15. What does `@st.cache_data` do, and why does the cache key include `loaded_at`?
-16. How would you test `analysis.py`? (Pure functions: see `tests/test_core.py`.)
-17. What would you improve next? (More materials/years, partner-country groups, trade-unit-value analysis, mirror-data checks.)
-18. How does the project use Git well? (Small modules, `.gitignore` for the database and personal data, tests, reproducible demo data.)
-
 ## Git-friendly notes
 
 `.gitignore` excludes the generated database (`data/*.db`), virtual environments, caches and your personal downloads (`data/user_*.csv`). The demo CSV is committed so a fresh clone works immediately. Suggested first commits: data + loader, database, analysis, charts, app, README.
