@@ -1,0 +1,262 @@
+year,material,commodity_code,trade_flow,partner_country,trade_value_usd,net_weight_kg
+2021,Iron & Steel,72,Import,China,2132862920,2399697447
+2021,Iron & Steel,72,Import,Japan,1473065855,1608430206
+2021,Iron & Steel,72,Import,South Korea,1332623355,1502691271
+2021,Iron & Steel,72,Import,Russia,818422540,1014558727
+2021,Iron & Steel,72,Import,Vietnam,641998069,755548524
+2021,Iron & Steel,72,Import,Germany,572142696,643783538
+2021,Iron & Steel,72,Import,Indonesia,557107285,681376811
+2021,Iron & Steel,72,Import,Australia,415259192,486656794
+2021,Iron & Steel,72,Import,Italy,313848007,335686879
+2021,Iron & Steel,72,Import,Taiwan,267627096,299714394
+2021,Iron & Steel,72,Import,Ukraine,193805211,218856406
+2021,Iron & Steel,72,Import,Brazil,217481482,275215280
+2022,Iron & Steel,72,Import,China,2202615101,2637784126
+2022,Iron & Steel,72,Import,Japan,1520845000,1844777540
+2022,Iron & Steel,72,Import,South Korea,1495521037,1902429378
+2022,Iron & Steel,72,Import,Russia,1058121670,1182684484
+2022,Iron & Steel,72,Import,Vietnam,635757747,771831306
+2022,Iron & Steel,72,Import,Germany,598452408,714521267
+2022,Iron & Steel,72,Import,Indonesia,517660724,645953800
+2022,Iron & Steel,72,Import,Australia,486618646,605286584
+2022,Iron & Steel,72,Import,Italy,283383679,352779962
+2022,Iron & Steel,72,Import,Taiwan,281306365,308409348
+2022,Iron & Steel,72,Import,Ukraine,241741980,295070677
+2022,Iron & Steel,72,Import,Brazil,249393181,276567353
+2023,Iron & Steel,72,Import,China,2206259113,2813941269
+2023,Iron & Steel,72,Import,Japan,1816704829,2092643222
+2023,Iron & Steel,72,Import,South Korea,1321821814,1414977320
+2023,Iron & Steel,72,Import,Russia,887213088,1109674251
+2023,Iron & Steel,72,Import,Vietnam,615073301,677985385
+2023,Iron & Steel,72,Import,Germany,550001795,661985847
+2023,Iron & Steel,72,Import,Indonesia,488512571,528230906
+2023,Iron & Steel,72,Import,Australia,472397093,559683434
+2023,Iron & Steel,72,Import,Italy,277628046,314325464
+2023,Iron & Steel,72,Import,Taiwan,341542126,415800684
+2023,Iron & Steel,72,Import,Ukraine,187371558,212507486
+2023,Iron & Steel,72,Import,Brazil,180658779,198874769
+2021,Iron & Steel,72,Export,Italy,1362072096,1722807242
+2021,Iron & Steel,72,Export,Belgium,1414869383,1715932206
+2021,Iron & Steel,72,Export,United Arab Emirates,1165908867,1293282222
+2021,Iron & Steel,72,Export,Vietnam,1106142572,1311530973
+2021,Iron & Steel,72,Export,Nepal,991026938,1160414019
+2021,Iron & Steel,72,Export,Spain,915418109,984063943
+2021,Iron & Steel,72,Export,United States,849595354,1093368242
+2021,Iron & Steel,72,Export,Germany,752600335,954979119
+2021,Iron & Steel,72,Export,Saudi Arabia,698987526,865614253
+2021,Iron & Steel,72,Export,Bangladesh,586788975,731495924
+2021,Iron & Steel,72,Export,Turkey,484603807,583114028
+2021,Iron & Steel,72,Export,Netherlands,535776214,667259523
+2021,Iron & Steel,72,Export,United Kingdom,382553349,432540928
+2022,Iron & Steel,72,Export,Italy,1953160617,2262157883
+2022,Iron & Steel,72,Export,Belgium,1686884364,1967195757
+2022,Iron & Steel,72,Export,United Arab Emirates,1688720411,1902829450
+2022,Iron & Steel,72,Export,Vietnam,1397797770,1780285748
+2022,Iron & Steel,72,Export,Nepal,1035453347,1316817009
+2022,Iron & Steel,72,Export,Spain,1148678673,1249739947
+2022,Iron & Steel,72,Export,United States,1081380497,1386494596
+2022,Iron & Steel,72,Export,Germany,897112894,1114200540
+2022,Iron & Steel,72,Export,Saudi Arabia,765468352,860644559
+2022,Iron & Steel,72,Export,Bangladesh,670962641,853312491
+2022,Iron & Steel,72,Export,Turkey,526423419,568853311
+2022,Iron & Steel,72,Export,Netherlands,608385702,651316575
+2022,Iron & Steel,72,Export,United Kingdom,465675058,537597253
+2023,Iron & Steel,72,Export,Italy,1710256712,1994402209
+2023,Iron & Steel,72,Export,Belgium,1322190613,1682418328
+2023,Iron & Steel,72,Export,United Arab Emirates,1202146283,1550252457
+2023,Iron & Steel,72,Export,Vietnam,1311161890,1504950662
+2023,Iron & Steel,72,Export,Nepal,1160274279,1449021563
+2023,Iron & Steel,72,Export,Spain,894109501,1121398816
+2023,Iron & Steel,72,Export,United States,887730460,1084817230
+2023,Iron & Steel,72,Export,Germany,898614691,1029540213
+2023,Iron & Steel,72,Export,Saudi Arabia,770270500,853968470
+2023,Iron & Steel,72,Export,Bangladesh,640628982,740888933
+2023,Iron & Steel,72,Export,Turkey,551387123,659450031
+2023,Iron & Steel,72,Export,Netherlands,594109356,649295895
+2023,Iron & Steel,72,Export,United Kingdom,377207343,453024101
+2021,Aluminium,76,Import,China,1276759774,505552608
+2021,Aluminium,76,Import,United Arab Emirates,731069313,304357311
+2021,Aluminium,76,Import,Russia,520423051,189805873
+2021,Aluminium,76,Import,Australia,425525234,166351106
+2021,Aluminium,76,Import,Malaysia,395621021,161387421
+2021,Aluminium,76,Import,Saudi Arabia,293553815,112986410
+2021,Aluminium,76,Import,Indonesia,323925127,126315447
+2021,Aluminium,76,Import,Japan,210954866,83818899
+2021,Aluminium,76,Import,Germany,225880995,79877839
+2021,Aluminium,76,Import,Vietnam,183304005,67361491
+2021,Aluminium,76,Import,South Korea,136117000,47860506
+2022,Aluminium,76,Import,China,1537619789,553079372
+2022,Aluminium,76,Import,United Arab Emirates,710930244,253988712
+2022,Aluminium,76,Import,Russia,526615551,188894278
+2022,Aluminium,76,Import,Australia,439847165,156165827
+2022,Aluminium,76,Import,Malaysia,407850200,161288044
+2022,Aluminium,76,Import,Saudi Arabia,346567094,135082023
+2022,Aluminium,76,Import,Indonesia,349263118,139165407
+2022,Aluminium,76,Import,Japan,251258034,104550419
+2022,Aluminium,76,Import,Germany,223843068,83802818
+2022,Aluminium,76,Import,Vietnam,211045646,77972876
+2022,Aluminium,76,Import,South Korea,151652527,59088647
+2023,Aluminium,76,Import,China,1109758239,394366796
+2023,Aluminium,76,Import,United Arab Emirates,854173053,347214446
+2023,Aluminium,76,Import,Russia,509515721,182482112
+2023,Aluminium,76,Import,Australia,384311098,145781573
+2023,Aluminium,76,Import,Malaysia,332942487,139108471
+2023,Aluminium,76,Import,Saudi Arabia,332932512,123165578
+2023,Aluminium,76,Import,Indonesia,317006750,130838916
+2023,Aluminium,76,Import,Japan,247750838,105875137
+2023,Aluminium,76,Import,Germany,191311575,75424096
+2023,Aluminium,76,Import,Vietnam,220335757,85675295
+2023,Aluminium,76,Import,South Korea,175699672,63397001
+2021,Aluminium,76,Export,United States,854513287,325275274
+2021,Aluminium,76,Export,Italy,409092849,145717733
+2021,Aluminium,76,Export,United Arab Emirates,314248366,124427097
+2021,Aluminium,76,Export,Germany,350732490,137525265
+2021,Aluminium,76,Export,United Kingdom,317805159,126844124
+2021,Aluminium,76,Export,Netherlands,254304697,103217287
+2021,Aluminium,76,Export,Saudi Arabia,228183629,90327247
+2021,Aluminium,76,Export,Belgium,205547860,79575584
+2021,Aluminium,76,Export,Bangladesh,158750498,55913424
+2021,Aluminium,76,Export,Sri Lanka,133337662,54628268
+2021,Aluminium,76,Export,France,131813841,55665039
+2022,Aluminium,76,Export,United States,862276486,321913562
+2022,Aluminium,76,Export,Italy,415346102,159175084
+2022,Aluminium,76,Export,United Arab Emirates,415645498,167051293
+2022,Aluminium,76,Export,Germany,401986102,142055791
+2022,Aluminium,76,Export,United Kingdom,375354499,144216574
+2022,Aluminium,76,Export,Netherlands,294845835,118590899
+2022,Aluminium,76,Export,Saudi Arabia,229595303,87980459
+2022,Aluminium,76,Export,Belgium,266224719,93867741
+2022,Aluminium,76,Export,Bangladesh,226340884,80439960
+2022,Aluminium,76,Export,Sri Lanka,148148069,58563769
+2022,Aluminium,76,Export,France,128084896,47877750
+2023,Aluminium,76,Export,United States,874509544,319983181
+2023,Aluminium,76,Export,Italy,463026423,193515578
+2023,Aluminium,76,Export,United Arab Emirates,379521956,155591623
+2023,Aluminium,76,Export,Germany,396594899,139773627
+2023,Aluminium,76,Export,United Kingdom,346165817,140022420
+2023,Aluminium,76,Export,Netherlands,300672355,109628014
+2023,Aluminium,76,Export,Saudi Arabia,241237407,92403962
+2023,Aluminium,76,Export,Belgium,259876765,94285640
+2023,Aluminium,76,Export,Bangladesh,165281217,60961395
+2023,Aluminium,76,Export,Sri Lanka,151155988,63616462
+2023,Aluminium,76,Export,France,122161558,46126125
+2021,Copper,74,Import,Chile,596218985,74416480
+2021,Copper,74,Import,Japan,613604813,70187946
+2021,Copper,74,Import,Tanzania,314502266,36491904
+2021,Copper,74,Import,Indonesia,329152892,41852717
+2021,Copper,74,Import,Malaysia,400269560,45902463
+2021,Copper,74,Import,China,353310985,44098119
+2021,Copper,74,Import,Singapore,236670562,31163276
+2021,Copper,74,Import,South Africa,217652846,25871804
+2021,Copper,74,Import,Zambia,212369122,24324775
+2021,Copper,74,Import,United Arab Emirates,164652002,19675910
+2021,Copper,74,Import,Thailand,172492381,20747914
+2021,Copper,74,Import,Peru,120879997,13909842
+2022,Copper,74,Import,Chile,683967736,77524345
+2022,Copper,74,Import,Japan,598749849,70173244
+2022,Copper,74,Import,Tanzania,421819530,54828247
+2022,Copper,74,Import,Indonesia,430365945,50708183
+2022,Copper,74,Import,Malaysia,361816340,48756471
+2022,Copper,74,Import,China,356281176,47129195
+2022,Copper,74,Import,Singapore,288306500,35728153
+2022,Copper,74,Import,South Africa,244059146,31153148
+2022,Copper,74,Import,Zambia,235519206,29625357
+2022,Copper,74,Import,United Arab Emirates,195658348,23043989
+2022,Copper,74,Import,Thailand,193631747,23368454
+2022,Copper,74,Import,Peru,126791249,14284329
+2023,Copper,74,Import,Chile,698817597,82722758
+2023,Copper,74,Import,Japan,616123893,77282110
+2023,Copper,74,Import,Tanzania,409597122,45915280
+2023,Copper,74,Import,Indonesia,357567847,41633645
+2023,Copper,74,Import,Malaysia,470006476,60105628
+2023,Copper,74,Import,China,325567461,39970410
+2023,Copper,74,Import,Singapore,319691149,42001569
+2023,Copper,74,Import,South Africa,227378058,30475966
+2023,Copper,74,Import,Zambia,276833823,32168143
+2023,Copper,74,Import,United Arab Emirates,218522714,29079482
+2023,Copper,74,Import,Thailand,204397031,22892192
+2023,Copper,74,Import,Peru,155469213,18319478
+2021,Copper,74,Export,China,586686486,69192622
+2021,Copper,74,Export,Germany,278780231,32970429
+2021,Copper,74,Export,United States,248877106,30422430
+2021,Copper,74,Export,Saudi Arabia,190497010,22437812
+2021,Copper,74,Export,Italy,195733650,23681710
+2021,Copper,74,Export,United Arab Emirates,169655439,21511954
+2021,Copper,74,Export,Malaysia,152781583,19609883
+2021,Copper,74,Export,South Korea,114534142,13633548
+2021,Copper,74,Export,Singapore,115668389,14813866
+2021,Copper,74,Export,Turkey,76045030,10183794
+2021,Copper,74,Export,Taiwan,68149108,8628328
+2022,Copper,74,Export,China,552378856,71856909
+2022,Copper,74,Export,Germany,273409702,33651894
+2022,Copper,74,Export,United States,227644635,29789673
+2022,Copper,74,Export,Saudi Arabia,222241300,26372033
+2022,Copper,74,Export,Italy,198132380,24593271
+2022,Copper,74,Export,United Arab Emirates,184940137,24333260
+2022,Copper,74,Export,Malaysia,124855383,15663807
+2022,Copper,74,Export,South Korea,142470816,18297473
+2022,Copper,74,Export,Singapore,111437390,13296201
+2022,Copper,74,Export,Turkey,83183705,9687437
+2022,Copper,74,Export,Taiwan,90238917,10368385
+2023,Copper,74,Export,China,595577724,70832399
+2023,Copper,74,Export,Germany,300375287,39581000
+2023,Copper,74,Export,United States,243438283,27012737
+2023,Copper,74,Export,Saudi Arabia,242005759,30060461
+2023,Copper,74,Export,Italy,245987592,30019003
+2023,Copper,74,Export,United Arab Emirates,195921776,22023167
+2023,Copper,74,Export,Malaysia,168813774,18821923
+2023,Copper,74,Export,South Korea,168442103,19982239
+2023,Copper,74,Export,Singapore,133910078,14962922
+2023,Copper,74,Export,Turkey,102662705,11897767
+2023,Copper,74,Export,Taiwan,88123832,10013279
+2021,Nickel,75,Import,Indonesia,236771628,13633448
+2021,Nickel,75,Import,China,167527464,8845333
+2021,Nickel,75,Import,Russia,132154082,6488360
+2021,Nickel,75,Import,Australia,104519830,5052032
+2021,Nickel,75,Import,Canada,96420797,4933581
+2021,Nickel,75,Import,Philippines,80040487,4320491
+2021,Nickel,75,Import,Norway,66996081,3263841
+2021,Nickel,75,Import,South Africa,45833360,2250791
+2021,Nickel,75,Import,Brazil,36006175,1816772
+2022,Nickel,75,Import,Indonesia,311548142,17579446
+2022,Nickel,75,Import,China,174619167,10178457
+2022,Nickel,75,Import,Russia,142852849,8243233
+2022,Nickel,75,Import,Australia,119122332,5724517
+2022,Nickel,75,Import,Canada,102677235,5386801
+2022,Nickel,75,Import,Philippines,105674632,5973798
+2022,Nickel,75,Import,Norway,91922216,5326469
+2022,Nickel,75,Import,South Africa,78349609,3877055
+2022,Nickel,75,Import,Brazil,40019333,2096443
+2023,Nickel,75,Import,Indonesia,222420322,12701876
+2023,Nickel,75,Import,China,141652190,8260225
+2023,Nickel,75,Import,Russia,143383770,7534584
+2023,Nickel,75,Import,Australia,99472466,5293282
+2023,Nickel,75,Import,Canada,94058942,4685844
+2023,Nickel,75,Import,Philippines,80545610,4566279
+2023,Nickel,75,Import,Norway,72800474,4019418
+2023,Nickel,75,Import,South Africa,46496274,2261870
+2023,Nickel,75,Import,Brazil,30250835,1611907
+2021,Nickel,75,Export,United Arab Emirates,29566993,1608854
+2021,Nickel,75,Export,Germany,27183817,1547644
+2021,Nickel,75,Export,United States,21209250,1068483
+2021,Nickel,75,Export,Italy,16213690,811639
+2021,Nickel,75,Export,Singapore,17276198,975274
+2021,Nickel,75,Export,France,13103409,640924
+2021,Nickel,75,Export,Japan,10030078,530978
+2021,Nickel,75,Export,United Kingdom,8581577,440930
+2022,Nickel,75,Export,United Arab Emirates,37573676,1918558
+2022,Nickel,75,Export,Germany,37080538,1857809
+2022,Nickel,75,Export,United States,31754267,1569648
+2022,Nickel,75,Export,Italy,25621234,1313614
+2022,Nickel,75,Export,Singapore,21317110,1182879
+2022,Nickel,75,Export,France,18453171,1043168
+2022,Nickel,75,Export,Japan,12273102,591392
+2022,Nickel,75,Export,United Kingdom,12246155,674821
+2023,Nickel,75,Export,United Arab Emirates,35566679,1754565
+2023,Nickel,75,Export,Germany,28480806,1529958
+2023,Nickel,75,Export,United States,26092028,1405433
+2023,Nickel,75,Export,Italy,17701995,918456
+2023,Nickel,75,Export,Singapore,13945447,769346
+2023,Nickel,75,Export,France,12535125,709852
+2023,Nickel,75,Export,Japan,9959413,507275
+2023,Nickel,75,Export,United Kingdom,7869636,414722
